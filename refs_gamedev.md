@@ -6,6 +6,7 @@ external links.
 * [Team](#team)
 
 ### Game Tech
+* [GDC Vault](http://gdcvault.com/gdmag)
 * [Publications | Advanced Technology Division | SQUARE ENIX](http://www.jp.square-enix.com/info/library/)
 
 ### Case
