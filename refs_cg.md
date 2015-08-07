@@ -2,7 +2,7 @@ external links.
 
 ### Index
 * [PBR](#PBR)
-* [Cel like animation](#cel-like-animation)
+* [Cel Like](#cel-like-animation)
 * [Graphics Programming](#graphics-programming)
 * [Tips](#tips)
 * [CG News Site](#cg-news-site)
@@ -14,10 +14,9 @@ external links.
 * [SIGGRAPH 2015 Course: Physically Based Shading in Theory and Practice](http://blog.selfshadow.com/publications/s2015-shading-course/)
 * [Marcin Ignac : Pragmatic physically based rendering : Setup & Gamma](http://marcinignac.com/blog/pragmatic-pbr-setup-and-gamma/)
 
-### Cel Like Animation
-* [[UE4] エンジンを改造してLUTテクスチャを使ったトゥーンシェーダを実装する方法](http://monsho.blog63.fc2.com/blog-entry-161.html)
+### Cel Like
 * [Video: Behind the scenes of Guilty Gear Xrd's striking 2D/3D art](http://gamasutra.com/view/news/244080/Video_Behind_the_scenes_of_Guilty_Gear_Xrds_striking_2D3D_art.php)
-
+* [[UE4] エンジンを改造してLUTテクスチャを使ったトゥーンシェーダを実装する方法](http://monsho.blog63.fc2.com/blog-entry-161.html)
  
 ### Graphics Programming
 * (Original Source: [vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md))
