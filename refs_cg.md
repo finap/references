@@ -1,4 +1,4 @@
-links of external websites.
+external links.
 
 ### Index
 * [PBR](#PBR)
