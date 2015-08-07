@@ -19,7 +19,15 @@ external links.
 * [[UE4] エンジンを改造してLUTテクスチャを使ったトゥーンシェーダを実装する方法](http://monsho.blog63.fc2.com/blog-entry-161.html)
  
 ### Graphics Programming
-* (Original Source: [vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md))
+* [introdunction to SIMD programming - primitive: blog](http://i-saint.hatenablog.com/entry/2015/05/26/212441)
+* [rendering fractals in Unity5 - primitive: blog](http://i-saint.hatenablog.com/entry/2015/03/18/194818)
+* [playing with Unity 5's deferred shading pipeline - primitive: blog](http://i-saint.hatenablog.com/entry/2015/07/28/233225)
+* [blue impulse / TokyoDemoFest2015 - primitive: blog](http://i-saint.hatenablog.com/entry/2015/02/23/192607)
+* [deferred shading in Unity - primitive: blog](http://i-saint.hatenablog.com/entry/2014/07/25/001608)
+* [raymarching for games - primitive: blog](http://i-saint.hatenablog.com/entry/2013/08/20/003046)
+* [shading blood - primitive: blog](http://i-saint.hatenablog.com/entry/20120109/1326120035)
+
+following links Original Source: [vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
 * [DirectX manual](http://www.xmission.com/~legalize/book/download/index.html) (draft)
 * [GPU Gems](http://http.developer.nvidia.com/GPUGems/gpugems_part01.html)
@@ -34,7 +42,6 @@ external links.
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
-* [GDC Vault](http://gdcvault.com/gdmag)
 
 ### Tips
 * [第５回　GPUの構造 | G-DEP](http://www.gdep.jp/page/view/252)
