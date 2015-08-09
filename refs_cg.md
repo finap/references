@@ -4,6 +4,7 @@ external links.
 * [PBR](#PBR)
 * [Cel Like](#cel-like-animation)
 * [Graphics Programming](#graphics-programming)
+* [Book](#book)
 * [Tips](#tips)
 * [CG News Site](#cg-news-site)
 
@@ -15,6 +16,8 @@ external links.
 * [Marcin Ignac : Pragmatic physically based rendering : Setup & Gamma](http://marcinignac.com/blog/pragmatic-pbr-setup-and-gamma/)
 
 ### Cel Like
+* [西川善司の「試験に出るゲームグラフィックス」（1）「GUILTY GEAR Xrd -SIGN-」で実現された「アニメにしか見えないリアルタイム3Dグラフィックス」の秘密，前編 - 4Gamer.net](http://www.4gamer.net/games/216/G021678/20140703095/)
+* [西川善司の「試験に出るゲームグラフィックス」（2）「GUILTY GEAR Xrd -SIGN-」で実現された「アニメにしか見えないリアルタイム3Dグラフィックス」の秘密，後編 - 4Gamer.net](http://www.4gamer.net/games/216/G021678/20140714079/)
 * [Video: Behind the scenes of Guilty Gear Xrd's striking 2D/3D art](http://gamasutra.com/view/news/244080/Video_Behind_the_scenes_of_Guilty_Gear_Xrds_striking_2D3D_art.php)
 * [[UE4] エンジンを改造してLUTテクスチャを使ったトゥーンシェーダを実装する方法](http://monsho.blog63.fc2.com/blog-entry-161.html)
  
@@ -43,11 +46,16 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
 
+### Book
+* [CGWORLD](http://cgworld.jp/)
+* [株式会社ボーンデジタル](http://www.borndigital.co.jp/)
+
 ### Tips
 * [第５回　GPUの構造 | G-DEP](http://www.gdep.jp/page/view/252)
 * [The rendering equation, using only 1000 most used English words](https://twitter.com/levork/status/609603797258600448)
 
 ### CG News Site
+* [CGWORLD.jp](http://cgworld.jp/)
 * [3D人](http://3dnchu.com/)
 * [CGchips](http://cgchips.com/)
 * [CGトラッキング](http://cgtracking.net/)
