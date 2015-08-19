@@ -53,6 +53,7 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 
 ### Tips
 * [第５回　GPUの構造 | G-DEP](http://www.gdep.jp/page/view/252)
+* [Life of a triangle - NVIDIA's logical pipeline](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)
 * [The rendering equation, using only 1000 most used English words](https://twitter.com/levork/status/609603797258600448)
 
 ### CG News Site
