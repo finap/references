@@ -4,6 +4,7 @@ external links.
 * [Game Tech](#game-tech)
 * [Case](#case)
 * [Team](#team)
+* [Blog](#blog)
 
 ### Game Tech
 * [GDC Vault](http://gdcvault.com/gdmag)
@@ -17,3 +18,7 @@ external links.
 
 ### Team
 * [PM.pdf(スクエニ ゲーム開発 プロジェクトマネジメント講座)](http://www.jp.square-enix.com/info/library/dldata/PM/PM.pdf)
+
+
+### Blog
+* [Cygames Engineers' Blog](http://tech.cygames.co.jp/)
