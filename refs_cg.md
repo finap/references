@@ -61,6 +61,7 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 
 ### CG News Site
 * [CGWORLD.jp](http://cgworld.jp/)
+* [Shader.jp](http://www.shader.jp/)
 * [3D人](http://3dnchu.com/)
 * [CGchips](http://cgchips.com/)
 * [CGトラッキング](http://cgtracking.net/)
@@ -70,7 +71,9 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 
 
 ### Blog
+* [primitive: blog](http://i-saint.hatenablog.com/)
 * [hanecci’s Blog](http://d.hatena.ne.jp/hanecci/)
 * [新 masafumi's Diary](http://masafumi.cocolog-nifty.com/masafumis_diary/)
 * [RG Engineering](http://engineering.riotgames.com/)
+* [もんしょの巣穴blog](http://monsho.blog63.fc2.com/)
 
