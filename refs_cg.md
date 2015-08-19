@@ -1,14 +1,31 @@
 external links.
 
 ### Index
+* [CG News Site](#cg-news-site)
+* [Blog](#blog)
 * [PBR](#PBR)
 * [Cel Like](#cel-like-animation)
 * [Graphics Programming](#graphics-programming)
 * [Book](#book)
 * [Tips](#tips)
-* [CG News Site](#cg-news-site)
 * [SIGGRAPH](#siggraph)
-* [Blog](#blog)
+
+
+### CG News Site
+* [CGWORLD.jp](http://cgworld.jp/)
+* [Shader.jp](http://www.shader.jp/)
+* [3D人](http://3dnchu.com/)
+* [CGchips](http://cgchips.com/)
+* [CGトラッキング](http://cgtracking.net/)
+
+### Blog
+* [primitive: blog](http://i-saint.hatenablog.com/)
+* [hanecci’s Blog](http://d.hatena.ne.jp/hanecci/)
+* [新 masafumi's Diary](http://masafumi.cocolog-nifty.com/masafumis_diary/)
+* [RG Engineering](http://engineering.riotgames.com/)
+* [(善)力疾走](http://www.z-z-z.jp/BLOG/)
+* [もんしょの巣穴blog](http://monsho.blog63.fc2.com/)
+
 
 ### PBR
 * [Lighting 基礎　１ … ライトの種類と三点照明](http://www.alchemyschool.com/mayatips/lighting01)
@@ -25,6 +42,8 @@ external links.
  
 ### Graphics Programming
 * [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html)
+* [西川善司の3Dゲームファンのための「KILLZONE 2」グラフィックス講座(前編) -GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20090417_125909.html)
+* [西川善司の3Dゲームファンのための「KILLZONE 2」グラフィックス講座(後編) -GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20090424_153727.html)
 * [introdunction to SIMD programming - primitive: blog](http://i-saint.hatenablog.com/entry/2015/05/26/212441)
 * [rendering fractals in Unity5 - primitive: blog](http://i-saint.hatenablog.com/entry/2015/03/18/194818)
 * [playing with Unity 5's deferred shading pipeline - primitive: blog](http://i-saint.hatenablog.com/entry/2015/07/28/233225)
@@ -59,21 +78,7 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 * [The rendering equation, using only 1000 most used English words](https://twitter.com/levork/status/609603797258600448)
 * [GeForce Tech Demo: MFAA - YouTube](https://www.youtube.com/watch?v=Nef6yWYu0-I)
 
-### CG News Site
-* [CGWORLD.jp](http://cgworld.jp/)
-* [Shader.jp](http://www.shader.jp/)
-* [3D人](http://3dnchu.com/)
-* [CGchips](http://cgchips.com/)
-* [CGトラッキング](http://cgtracking.net/)
-
 ### SIGGRAPH
 * [nextgenapis.realtimerendering.com](http://nextgenapis.realtimerendering.com/)
 
-
-### Blog
-* [primitive: blog](http://i-saint.hatenablog.com/)
-* [hanecci’s Blog](http://d.hatena.ne.jp/hanecci/)
-* [新 masafumi's Diary](http://masafumi.cocolog-nifty.com/masafumis_diary/)
-* [RG Engineering](http://engineering.riotgames.com/)
-* [もんしょの巣穴blog](http://monsho.blog63.fc2.com/)
 
