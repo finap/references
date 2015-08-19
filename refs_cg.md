@@ -32,6 +32,7 @@ external links.
 * [『THE COMPREHENSIVE PBR GUIDE Volume 1: The Theory of PBR by Allegorithmic』私家訳版](http://www.slideshare.net/nyaakobayashi/pbr-guide-vol1jp)
 * [『THE COMPREHENSIVE PBR GUIDE – Vol. 2: Practical guidelines for creating PBR textures 』私家訳版](http://www.slideshare.net/nyaakobayashi/70100srgb180255)
 * [SIGGRAPH 2015 Course: Physically Based Shading in Theory and Practice](http://blog.selfshadow.com/publications/s2015-shading-course/)
+* [物理ベースレンダリング -基礎編- | Cygames Engineers' Blog](http://tech.cygames.co.jp/archives/2129/)
 * [Marcin Ignac : Pragmatic physically based rendering : Setup & Gamma](http://marcinignac.com/blog/pragmatic-pbr-setup-and-gamma/)
 
 ### Cel Like
