@@ -8,6 +8,7 @@ external links.
 * [Tips](#tips)
 * [CG News Site](#cg-news-site)
 * [SIGGRAPH](#siggraph)
+* [Blog](#blog)
 
 ### PBR
 * [Lighting 基礎　１ … ライトの種類と三点照明](http://www.alchemyschool.com/mayatips/lighting01)
@@ -66,4 +67,10 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 
 ### SIGGRAPH
 * [nextgenapis.realtimerendering.com](http://nextgenapis.realtimerendering.com/)
+
+
+### Blog
+* [hanecci’s Blog](http://d.hatena.ne.jp/hanecci/)
+* [新 masafumi's Diary](http://masafumi.cocolog-nifty.com/masafumis_diary/)
+* [RG Engineering](http://engineering.riotgames.com/)
 
