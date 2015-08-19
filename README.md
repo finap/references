@@ -7,3 +7,7 @@ FINAP(ふぃなっぷ)が気になった、参考文献をまとめるところ�
 * [CG](./refs_cg.md)
 * [GameDev](./refs_gamedev.md)
 * [drafts](./refs_drafts.md)
+
+
+FINAP blog: [ハッカーと同人作家](http://finap.hateblo.jp/)
+
