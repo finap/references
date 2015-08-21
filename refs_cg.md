@@ -34,6 +34,7 @@ external links.
 * [SIGGRAPH 2015 Course: Physically Based Shading in Theory and Practice](http://blog.selfshadow.com/publications/s2015-shading-course/)
 * [物理ベースレンダリング -基礎編- | Cygames Engineers' Blog](http://tech.cygames.co.jp/archives/2129/)
 * [Marcin Ignac : Pragmatic physically based rendering : Setup & Gamma](http://marcinignac.com/blog/pragmatic-pbr-setup-and-gamma/)
+* [The facts of tri-Ace Technical Demo Trailer](http://research.tri-ace.com/s2015.html)
 
 ### Cel Like
 * [西川善司の「試験に出るゲームグラフィックス」（1）「GUILTY GEAR Xrd -SIGN-」で実現された「アニメにしか見えないリアルタイム3Dグラフィックス」の秘密，前編 - 4Gamer.net](http://www.4gamer.net/games/216/G021678/20140703095/)
