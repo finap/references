@@ -50,6 +50,7 @@ external links.
 * [西川善司の3Dゲームファンのための「KILLZONE 2」グラフィックス講座(後編) -GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20090424_153727.html)
 * [Real Shading in Unreal Engine 4 2013SiggraphPresentationsNotes-26915738.pdf](https://de45xmedrsdbp.cloudfront.net/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
 * ["Unreal Engine4 のリアルシェーディング" (SIGGRAPH 2013)の説明 - hanecci’s Blog](http://d.hatena.ne.jp/hanecci/20130727/p2)
+* [The Rendering Pipeline - Challenges & Next Steps - Frostbite](http://www.frostbite.com/2015/08/the-rendering-pipeline-challenges-next-steps/)
 * [introdunction to SIMD programming - primitive: blog](http://i-saint.hatenablog.com/entry/2015/05/26/212441)
 * [rendering fractals in Unity5 - primitive: blog](http://i-saint.hatenablog.com/entry/2015/03/18/194818)
 * [playing with Unity 5's deferred shading pipeline - primitive: blog](http://i-saint.hatenablog.com/entry/2015/07/28/233225)
