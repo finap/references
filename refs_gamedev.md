@@ -18,6 +18,7 @@ external links.
 * [スクールガールストライカーズの内製クライアントエンジン](http://www.jp.square-enix.com/info/images/image_technical_seminar2014_06/pdf/SQEX_DevCon_sugimoto.pdf)
 * [gdc2015_rendering_the_world_of_far_cry_4.pdf](https://dl.dropboxusercontent.com/u/16861957/gdc2015_rendering_the_world_of_far_cry_4.pdf)
 * [Chen_Ka_AdaptiveVirtualTexture.pdf](http://twvideo01.ubm-us.net/o1/vault/gdc2015/presentations/Chen_Ka_AdaptiveVirtualTexture.pdf)
+* [「FFXV-EPISODE DUSCAE-」のAI＆アニメはどう作られたか？ - GAME Watch](http://game.watch.impress.co.jp/docs/news/20150827_718117.html)
 
 ### Team
 * [PM.pdf(スクエニ ゲーム開発 プロジェクトマネジメント講座)](http://www.jp.square-enix.com/info/library/dldata/PM/PM.pdf)
