@@ -19,6 +19,8 @@ external links.
 * [gdc2015_rendering_the_world_of_far_cry_4.pdf](https://dl.dropboxusercontent.com/u/16861957/gdc2015_rendering_the_world_of_far_cry_4.pdf)
 * [Chen_Ka_AdaptiveVirtualTexture.pdf](http://twvideo01.ubm-us.net/o1/vault/gdc2015/presentations/Chen_Ka_AdaptiveVirtualTexture.pdf)
 * [「FFXV-EPISODE DUSCAE-」のAI＆アニメはどう作られたか？ - GAME Watch](http://game.watch.impress.co.jp/docs/news/20150827_718117.html)
+* [Deus Ex: Human Revolution - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)
+* [Supreme Commander - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 
 ### Team
 * [PM.pdf(スクエニ ゲーム開発 プロジェクトマネジメント講座)](http://www.jp.square-enix.com/info/library/dldata/PM/PM.pdf)
