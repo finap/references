@@ -7,6 +7,8 @@ drafts
 * [第1話 プログラムが動く仕組み - ６さいからのプログラミング - Kuina-chan](http://kuina.ch/l6prog/1)
 * [After Effects 全エフェクト - YouTube](https://www.youtube.com/playlist?list=PLyRab72s4zBgV7YkMml--SoOEcpMYf9ig)
 * [西川善司の「試験に出るゲームグラフィックス」（3）映像制作新時代の到来か。ゲームエンジンを映像制作に用いる新発想 - 4Gamer.net](http://www.4gamer.net/games/210/G021013/20150814057/)
+* [世界のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-world/)
+* [日本のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-jp/)
 
 ### C++
 * [[Wandbox]三へ( へ՞ਊ ՞)へ ﾊｯﾊｯ](http://melpon.org/wandbox/)
