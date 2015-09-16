@@ -7,8 +7,19 @@ drafts
 * [第1話 プログラムが動く仕組み - ６さいからのプログラミング - Kuina-chan](http://kuina.ch/l6prog/1)
 * [After Effects 全エフェクト - YouTube](https://www.youtube.com/playlist?list=PLyRab72s4zBgV7YkMml--SoOEcpMYf9ig)
 * [西川善司の「試験に出るゲームグラフィックス」（3）映像制作新時代の到来か。ゲームエンジンを映像制作に用いる新発想 - 4Gamer.net](http://www.4gamer.net/games/210/G021013/20150814057/)
+* [Houdini - sidefx.jp](http://www.sidefx.jp/index.php?option=com_content&view=article&id=1&Itemid=435)
 * [世界のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-world/)
 * [日本のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-jp/)
 
 ### C++
 * [[Wandbox]三へ( へ՞ਊ ՞)へ ﾊｯﾊｯ](http://melpon.org/wandbox/)
+
+
+### Movie
+* [【CEDEC2014】Houdini EngineとHoudini Indieによるプロシージャルコンテンツ作成 - YouTube](https://www.youtube.com/watch?v=OemGBhNvpxE)
+* [【CEDEC2014】『Substance4』 ～新世代ゲームテクスチャリング～ - YouTube](https://www.youtube.com/watch?v=4qigQ7rNsk0)
+* [【CEDEC2014】アンリアル・エンジン４でのコンテンツ制作の深～いお話 - YouTube](https://www.youtube.com/watch?v=yklbheF02LY)
+* [【CEDEC2014】アンリアル・エンジン４を技術者が活用するための最新ノウハウ - YouTube](https://www.youtube.com/watch?v=YyNo3U1dV9s)
+
+
+
