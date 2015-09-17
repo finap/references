@@ -11,6 +11,11 @@ drafts
 * [世界のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-world/)
 * [日本のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-jp/)
 
+### GameNews
+* [Game*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/)
+* [4Gamer.net ― 日本最大級の総合ゲーム情報サイト](http://www.4gamer.net/)
+
+
 ### C++
 * [[Wandbox]三へ( へ՞ਊ ՞)へ ﾊｯﾊｯ](http://melpon.org/wandbox/)
 
