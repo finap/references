@@ -18,6 +18,7 @@ drafts
 
 ### C++
 * [[Wandbox]三へ( へ՞ਊ ՞)へ ﾊｯﾊｯ](http://melpon.org/wandbox/)
+* [CppCon 2015: The current memory and C++ debugging too...](https://cppcon2015.sched.org/event/a9bccd0c3f6beb05752b36a4197a1deb#.Vg9b1S7tlBe)
 
 
 ### Movie
