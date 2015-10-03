@@ -46,6 +46,7 @@ external links.
 * [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html)
 * [Vector Maths - Unity Official Tutorials - YouTube](https://www.youtube.com/watch?v=7DK8aA2qee8&feature=youtu.be)
 * [Unity - Vector Maths](https://unity3d.com/jp/learn/tutorials/modules/beginner/scripting/vector-maths-dot-cross-products)
+* [immersivemath: Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 * [西川善司の3Dゲームファンのための「KILLZONE 2」グラフィックス講座(前編) -GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20090417_125909.html)
 * [西川善司の3Dゲームファンのための「KILLZONE 2」グラフィックス講座(後編) -GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20090424_153727.html)
 * [Real Shading in Unreal Engine 4 2013SiggraphPresentationsNotes-26915738.pdf](https://de45xmedrsdbp.cloudfront.net/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
