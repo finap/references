@@ -4,6 +4,7 @@ drafts
 * [Ray Marching Experiment 29 | FunParadigm](http://www.funparadigm.com/2015/07/16/ray-marching-experiment-29/)
 * [nkdさんはTwitterを使っています: "ゲームプログラミング向けにちびちびとベクトルを説明するまんが。 一応使えますけどってくらいの人がターゲット（謎）。 強い人に突っ込まれそうだけど(((-w-))) まんがが描きたかったのです。つづくかなあ？ #unitychan http://t.co/zZpGkMkOLp"](https://twitter.com/NKDTR/status/628942577295732736)
 * [nkdさんはTwitterを使っています: "第２回は座標と座標系の話です。 前回と合わせてベクトルの基礎、ということで。 系という字は system の訳語としてあてられることが多いですね。 (前回) https://t.co/RTSKigpAYH #unitychan http://t.co/TIx3y5EM6F"](https://twitter.com/NKDTR/status/630759407505162240)
+* [まんが保管庫 - Graphics Programming Playground](http://nkdtr.hatenablog.com/entry/2015/08/24/234456)
 * [第1話 プログラムが動く仕組み - ６さいからのプログラミング - Kuina-chan](http://kuina.ch/l6prog/1)
 * [After Effects 全エフェクト - YouTube](https://www.youtube.com/playlist?list=PLyRab72s4zBgV7YkMml--SoOEcpMYf9ig)
 * [西川善司の「試験に出るゲームグラフィックス」（3）映像制作新時代の到来か。ゲームエンジンを映像制作に用いる新発想 - 4Gamer.net](http://www.4gamer.net/games/210/G021013/20150814057/)
@@ -14,6 +15,7 @@ drafts
 ### GameNews
 * [Game*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/)
 * [4Gamer.net ― 日本最大級の総合ゲーム情報サイト](http://www.4gamer.net/)
+* [AUTOMATON日本版 | 国内外のゲーム情報サイト](http://jp.automaton.am/)
 
 
 ### C++
