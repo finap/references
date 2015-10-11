@@ -30,4 +30,8 @@ drafts
 * [【CEDEC2014】アンリアル・エンジン４を技術者が活用するための最新ノウハウ - YouTube](https://www.youtube.com/watch?v=YyNo3U1dV9s)
 
 
+### Life
+* [トレーニングを楽しく続ける6つのヒント - ゲームクリエイターが知るべき97のこと 2](http://xn--972-o73bf2b4jwbzftixktbzfvb4o4tqfvmg57147a.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%92%E6%A5%BD%E3%81%97%E3%81%8F%E7%B6%9A%E3%81%91%E3%82%8B6%E3%81%A4%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88)
+
+
 
