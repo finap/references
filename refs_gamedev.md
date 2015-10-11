@@ -22,6 +22,7 @@ external links.
 * [「FFXV-EPISODE DUSCAE-」のAI＆アニメはどう作られたか？ - GAME Watch](http://game.watch.impress.co.jp/docs/news/20150827_718117.html)
 * [Deus Ex: Human Revolution - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)
 * [Supreme Commander - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
+* [「鉄拳タッグトーナメント2」を60fpsで動作させるために開発者が知恵を絞ったポイント - GIGAZINE](http://gigazine.net/news/20110907_tekken_cedec2011/)
 
 ### Team
 * [PM.pdf(スクエニ ゲーム開発 プロジェクトマネジメント講座)](http://www.jp.square-enix.com/info/library/dldata/PM/PM.pdf)
