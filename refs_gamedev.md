@@ -25,6 +25,8 @@ external links.
 * [「鉄拳タッグトーナメント2」を60fpsで動作させるために開発者が知恵を絞ったポイント - GIGAZINE](http://gigazine.net/news/20110907_tekken_cedec2011/)
 * [GDC Vault search:NaughtyDog](http://www.gdcvault.com/search.php#&category=free&firstfocus=&keyword=Naughty+Dog&conference_id=)
 * [GDC Vault - Parallelizing the Naughty Dog Engine Using Fibers](http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
+* [西川善司が分析！『アンチャーテッド』のグラフィックスのスゴさとは【PR】 - 週刊アスキー](http://weekly.ascii.jp/elem/000/000/370/370079/index.html)
+
 
 ### Team
 * [PM.pdf(スクエニ ゲーム開発 プロジェクトマネジメント講座)](http://www.jp.square-enix.com/info/library/dldata/PM/PM.pdf)
