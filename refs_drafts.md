@@ -11,6 +11,7 @@ drafts
 * [Houdini - sidefx.jp](http://www.sidefx.jp/index.php?option=com_content&view=article&id=1&Itemid=435)
 * [世界のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-world/)
 * [日本のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-jp/)
+* [gamedev - game development, programming, design, writing, math, art, jams, postmortems, marketing](https://www.reddit.com/r/gamedev/)
 
 ### GameNews
 * [Game*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/)
