@@ -23,6 +23,8 @@ external links.
 * [Deus Ex: Human Revolution - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2015/03/10/deus-ex-human-revolution-graphics-study/)
 * [Supreme Commander - Graphics Study - Adrian Courrèges](http://www.adriancourreges.com/blog/2015/06/23/supreme-commander-graphics-study/)
 * [「鉄拳タッグトーナメント2」を60fpsで動作させるために開発者が知恵を絞ったポイント - GIGAZINE](http://gigazine.net/news/20110907_tekken_cedec2011/)
+* [GDC Vault search:NaughtyDog](http://www.gdcvault.com/search.php#&category=free&firstfocus=&keyword=Naughty+Dog&conference_id=)
+* [GDC Vault - Parallelizing the Naughty Dog Engine Using Fibers](http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 
 ### Team
 * [PM.pdf(スクエニ ゲーム開発 プロジェクトマネジメント講座)](http://www.jp.square-enix.com/info/library/dldata/PM/PM.pdf)
