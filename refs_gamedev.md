@@ -58,7 +58,7 @@ external links.
 * [E3特別編その1。MTフレームワーク2.0採用の「バイオハザード6」は進化したキャラクター表現に注目! - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120607_538452.html)
 * [E3特別編その2。NAUGHTY DOGの新グラフィックスエンジンは「アンチャーテッド3」を超えるのか - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120608_538525.html)
 * [E3特別編その3。EAゲームのグラフィックスの見どころを探る - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120608_538950.html)
-* [E3特別編その4 - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120609_539153.html)
+* [E3特別編その4。「HEAVY RAIN」のスタッフの次回作「BEYOND:TWO SOULS」は物理ベースレンダリングの採用で現行ゲームグラフィックスをBEYONDする!? - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120609_539153.html)
 * [E3特別編その5。もう「アンチャーテッド」には負けられない!　リッチな破壊と厚みのあるビジュアルを獲得した新生「TOMB RAIDER」 - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120609_539157.html)
 * [E3特別編その6。Wii Uのグラフィックス性能を推し量る。Wii U Game Pad上の子画面レンダリングを低負荷に行なう方法とは? - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120610_539258.html)
 * [E3特別編その7。次世代ゲーム機での動作を想定したUnreal Engine“4”が登場 - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/20120610_539330.html)
