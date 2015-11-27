@@ -8,8 +8,9 @@ external links.
 
 ### Game Tech
 * [GDC Vault](http://gdcvault.com/gdmag)
-* [Publications | Advanced Technology Division | SQUARE ENIX](http://www.jp.square-enix.com/info/library/)
 * [CEDiLウェブサイト](http://cedil.cesa.or.jp/)
+* [Publications | Advanced Technology Division | SQUARE ENIX](http://www.jp.square-enix.com/info/library/)
+* [tri-Ace Inc. Research and Development Department.](http://research.tri-ace.com/)
 
 ### Case
 * [3Dゲームファンのためのグラフィックス講座 記事リンク集 - GAME Watch - GAME Watch](http://game.watch.impress.co.jp/docs/series/3dcg/)
