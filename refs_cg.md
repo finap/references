@@ -60,6 +60,7 @@ external links.
 * [deferred shading in Unity - primitive: blog](http://i-saint.hatenablog.com/entry/2014/07/25/001608)
 * [raymarching for games - primitive: blog](http://i-saint.hatenablog.com/entry/2013/08/20/003046)
 * [shading blood - primitive: blog](http://i-saint.hatenablog.com/entry/20120109/1326120035)
+* [GDC 2015 でのハイエンドグラフィックス](http://www.slideshare.net/imagire/gdc-2015-pub)
 
 following links Original Source: [vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
@@ -76,6 +77,7 @@ following links Original Source: [vhf/free-programming-books](https://github.com
 * [OpenGL Programming Guide (The Red Book)](http://fly.srk.fer.hr/~unreal/theredbook/)
 * [ShaderX series](http://tog.acm.org/resources/shaderx/)
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org/)
+
 
 ### Book
 * [CGWORLD](http://cgworld.jp/)
