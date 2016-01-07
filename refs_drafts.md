@@ -15,7 +15,7 @@ drafts
 * [Gamasutra - The Art & Business of Making Games](http://www.gamasutra.com/)
 * [GameDev.net Game Development Community](http://www.gamedev.net/page/index.html)
 * [Hacker News](https://news.ycombinator.com/)
-* [gamedev - game development, programming, design, writing, math, art, jams, postmortems, marketing](https://www.reddit.com/r/gamedev/)
+* [Video Games, Wikis, Cheats, Walkthroughs, Reviews, News & Videos - IGN](http://www.ign.com/)
 
 ### GameNews
 * [Game*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/)
