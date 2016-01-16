@@ -25,6 +25,7 @@ external links.
 * [RG Engineering](http://engineering.riotgames.com/)
 * [(善)力疾走](http://www.z-z-z.jp/BLOG/)
 * [もんしょの巣穴blog](http://monsho.blog63.fc2.com/)
+* [Real-Time Rendering · Tracking the latest developments in interactive rendering techniques](http://www.realtimerendering.com/blog/)
 
 
 ### PBR
@@ -61,6 +62,7 @@ external links.
 * [raymarching for games - primitive: blog](http://i-saint.hatenablog.com/entry/2013/08/20/003046)
 * [shading blood - primitive: blog](http://i-saint.hatenablog.com/entry/20120109/1326120035)
 * [GDC 2015 でのハイエンドグラフィックス](http://www.slideshare.net/imagire/gdc-2015-pub)
+* [Real-Time Rendering Resources](http://www.realtimerendering.com/)
 
 following links Original Source: [vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Blender 3D: Noob to Pro](http://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro)
