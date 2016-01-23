@@ -26,6 +26,7 @@ external links.
 * [(善)力疾走](http://www.z-z-z.jp/BLOG/)
 * [もんしょの巣穴blog](http://monsho.blog63.fc2.com/)
 * [Real-Time Rendering · Tracking the latest developments in interactive rendering techniques](http://www.realtimerendering.com/blog/)
+* [Unityシェーダ入門](http://unityshader.hatenablog.com/)
 
 
 ### PBR
