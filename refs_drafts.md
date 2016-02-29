@@ -12,15 +12,16 @@ drafts
 * [世界のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-world/)
 * [日本のCG制作会社リスト | memlog](http://blog.taikomatsu.com/link/cg-company-jp/)
 * [gamedev - game development, programming, design, writing, math, art, jams, postmortems, marketing](https://www.reddit.com/r/gamedev/)
-* [Gamasutra - The Art & Business of Making Games](http://www.gamasutra.com/)
 * [GameDev.net Game Development Community](http://www.gamedev.net/page/index.html)
 * [Hacker News](https://news.ycombinator.com/)
-* [Video Games, Wikis, Cheats, Walkthroughs, Reviews, News & Videos - IGN](http://www.ign.com/)
 
 ### GameNews
 * [Game*Spark - 国内・海外ゲーム情報サイト](http://www.gamespark.jp/)
 * [4Gamer.net ― 日本最大級の総合ゲーム情報サイト](http://www.4gamer.net/)
 * [AUTOMATON日本版 | 国内外のゲーム情報サイト](http://jp.automaton.am/)
+* [Video Games Reviews & News - GameSpot](http://www.gamespot.com/)
+* [Gamasutra - The Art & Business of Making Games](http://www.gamasutra.com/)
+* [Video Games, Wikis, Cheats, Walkthroughs, Reviews, News & Videos - IGN](http://www.ign.com/)
 
 
 ### C++
