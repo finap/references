@@ -28,6 +28,8 @@ external links.
 * [GDC Vault - Parallelizing the Naughty Dog Engine Using Fibers](http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 * [西川善司が分析！『アンチャーテッド』のグラフィックスのスゴさとは【PR】 - 週刊アスキー](http://weekly.ascii.jp/elem/000/000/370/370079/index.html)
 * [Game Art Tricks | Simon schreibt.](http://simonschreibt.de/game-art-tricks/)
+* [ジャンル別ゲームの作り方とアルゴリズムまとめ - ネットサービス研究室](http://d.hatena.ne.jp/seikenn/20090627/1246028707)
+* [各種ゲームのプログラム解析](http://s-endo.skr.jp/gameprog_analysis.html)
 
 
 ### Team
